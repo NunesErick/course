@@ -7,3 +7,4 @@ import com.course.portf.entities.Order;
 public interface OrderRepository extends JpaRepository<Order , Long>{
 
 }
+	
